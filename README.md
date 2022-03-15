@@ -19,7 +19,6 @@ Aoi Umigishi (Yuta Azuma)
 [Career](https://www.wantedly.com/id/yuuta_azuma_c)
 
 ## Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umigishi-Aoi&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umigishi-Aoi&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umigishi-Aoi&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umigishi-Aoi&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Umigishi-Aoi)
