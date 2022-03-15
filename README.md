@@ -4,7 +4,7 @@
 
 ## Name
 
-Aoi Umigishi (Yuta　Azuma)
+Aoi Umigishi (Yuta Azuma)
 
 ## Output
 
@@ -12,7 +12,7 @@ Aoi Umigishi (Yuta　Azuma)
 
 [ゼロから始めるアプリ開発](https://zerokara-app.com/)
 
-[Qiita](https://qiita.com/)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/Umigishi-Aoi)
 
 
 ## Career
@@ -20,4 +20,6 @@ Aoi Umigishi (Yuta　Azuma)
 
 ## Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umigishi-Aoi&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umigishi-Aoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umigishi-Aoi&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Umigishi-Aoi)
