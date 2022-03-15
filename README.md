@@ -1,16 +1,23 @@
-### Hi there 👋
+### If you don't have the app you want, you can create it from scratch.
 
-<!--
-**Umigishi-Aoi/Umigishi-Aoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 欲しいアプリが世の中に無いなら、自分でゼロから作ればいい。
 
-Here are some ideas to get you started:
+## Name
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Umigishi Aoi (Azuma Yuta)
+
+## Output
+
+[週刊Flutter大学](https://blog.flutteruniv.com/)
+
+[ゼロから始めるアプリ開発](https://zerokara-app.com/)
+
+[Qiita](https://qiita.com/)
+
+
+## Career
+[Career](https://www.wantedly.com/id/yuuta_azuma_c)
+
+## Github Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umigishi-Aoi&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umigishi-Aoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
