@@ -4,7 +4,7 @@
 
 ## Name
 
-Umigishi Aoi (Azuma Yuta)
+Aoi Umigishi (Azuma Yuta)
 
 ## Output
 
